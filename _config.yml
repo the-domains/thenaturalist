@@ -2,6 +2,7 @@ name: thenaturalist
 favicon: null
 layout_spectrum: 0.5690548887941986
 typography_spectrum: 0.9295444285962731
+title: The Naturalist Project
 cta:
   domain: null
   bucket: null
